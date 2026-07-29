@@ -7,7 +7,6 @@ Final year Computer Science student at Politecnico di Torino, working across **G
 <br>🌍 Based in Turin, Italy<br>✉️ You can reach me at ayhan.meherrem2@gmail.com
 
 ## 🌐 Links:
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayhanmeherrem.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhan-meherrem/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0Zxe3ccAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5959-0160)
